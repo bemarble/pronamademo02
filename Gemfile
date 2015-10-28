@@ -45,3 +45,7 @@ group :development do
   gem 'spring'
 end
 
+gem 'less-rails'
+gem 'therubyracer'
+gem 'execjs'
+gem 'twitter-bootstrap-rails'
